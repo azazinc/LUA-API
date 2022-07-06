@@ -17,3 +17,18 @@ Load a script by name
 #### **unload\_script(** string name **)** <a href="#unload_script-string-name" id="unload_script-string-name"></a>
 
 Unload a script by name
+
+#### **get\_visible( )** <a href="#unload_script-string-name" id="unload_script-string-name"></a>
+
+Return menu opened
+
+
+
+**get\_pos\_x( )**
+
+Return menu position (x coordinate)
+
+**get\_pos\_y( )**
+
+Return menu position (y coordinate)
+
