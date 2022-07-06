@@ -20,7 +20,7 @@ end)
 
 ## Manipulation of the panorama <a href="#manipulation-of-the-panorama" id="manipulation-of-the-panorama"></a>
 
-Download this library, and put it next to the lua. - [download](https://discord.com/channels/863692583284637736/994314038165110874/994314627536125952)&#x20;
+Download this library, and put it next to the lua. - [download](https://discord.gg/E5WxKmfB34)&#x20;
 
 **Libraries stored in 'Counter-Strike Global Offensive\lua\\'**
 
