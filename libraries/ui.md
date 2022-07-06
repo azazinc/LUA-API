@@ -18,11 +18,9 @@ Load a script by name
 
 Unload a script by name
 
-#### **get\_visible( )** <a href="#unload_script-string-name" id="unload_script-string-name"></a>
+**get\_visible( )**
 
 Return menu opened
-
-
 
 **get\_pos\_x( )**
 
